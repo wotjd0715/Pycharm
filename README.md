@@ -4,19 +4,19 @@
 
    - Git 설치하기: <https://git-scm.com/>
        
-     ![git](https://github.com/wotjd0715/markdown/blob/master/git1.png)
+     ![git](https://github.com/wotjd0715/Pycharm/blob/master/git1.png)
       
-   - pycharm 설치하기: 
+   - pycharm 설치하기: c
      <https://www.jetbrains.com/pycharm/download/#section=windows/>
         
-     ![pycharm](https://github.com/wotjd0715/markdown/blob/master/pycharm1.png)
+     ![pycharm](https://github.com/wotjd0715/Pycharm/blob/master/git1.png)
 ___
   ### __Github 로그인후 Resistory 생성__
-   ![git](https://github.com/wotjd0715/markdown/blob/master/github1.png)
+   ![git](https://github.com/wotjd0715/Pycharm/blob/master/github1.png)
    
-   ![git](https://github.com/wotjd0715/markdown/blob/master/github2.png) 
+   ![git](https://github.com/wotjd0715/Pycharm/blob/master/github2.png) 
    
-   ![git](https://github.com/wotjd0715/markdown/blob/master/github3.png)
+   ![git](https://github.com/wotjd0715/Pycharm/blob/master/github3.png)
    
  ___
   ### Pycharm에서 README작성
@@ -26,7 +26,7 @@ ___
   ```
  - README 꾸미기
  
-   ![git](https://github.com/wotjd0715/markdown/blob/master/p2.png)
+   ![git](https://github.com/wotjd0715/Pycharm/blob/master/p2.png)
   
   README는 일반 문서와 달리 Markdown으로 쓰입니다
   
