@@ -53,4 +53,5 @@ git push origin +master
 기존의 파일을 잃어버릴수 있습니다.
  - Github으로 돌아가 새로고침을 통해 확인하기
  
+ ![git](https://github.com/wotjd0715/Pycharm/blob/master/p3.png)
     
