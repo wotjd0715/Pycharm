@@ -9,7 +9,7 @@
    - pycharm 설치하기: c
      <https://www.jetbrains.com/pycharm/download/#section=windows/>
         
-     ![pycharm](https://github.com/wotjd0715/Pycharm/blob/master/git1.png)
+     ![pycharm](https://github.com/wotjd0715/Pycharm/blob/master/pycharm1.png)
 ___
   ### __Github 로그인후 Resistory 생성__
    ![git](https://github.com/wotjd0715/Pycharm/blob/master/github1.png)
